@@ -12,7 +12,9 @@ Objective: Understand and summarize key statistics in the dataset
 
 **Steps**:
 Data Import: Import the dataset into Power BI.
+
 Exploratory Analysis: Explore the data set structure and data types.
+
 Calculate Statistics: Compute average age,percentage of individuals with various investments, and common savings objectives.
 Visualization: Create charts for effective visualization of the summary statistics.
 
@@ -31,7 +33,7 @@ mutual funds, government bonds) based
 on gender.
 
 Insights: Derive insights from the
-visualizations, noting significant genderbased
+visualizations, noting significant gender based
 trends.
 
 ![task 2-2](https://github.com/Mandarsir24/INVESTMENT-ANALYSIS-AT-COGNIFYZ-TECHNOLOGIES/assets/152494714/e6a37a2f-c0e3-4368-9eb2-839d47cf7420)
@@ -42,7 +44,7 @@ Analyze the relationship between savings objectives and investment choices.
 
 **Steps: -**
 
-Correlation Analysis: Explore the correlation between savings objectives(e.g., Capital Appreciation) and investmentavenues (e.g., Equity).
+Correlation Analysis: Explore the correlation between savings objectives(e.g., Capital Appreciation) and investment avenues (e.g., Equity).
 
 chart Creation: Generate charts displaying preferred investment choices for each savings objective.
 
