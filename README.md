@@ -23,7 +23,7 @@ Visualization: Create charts for effectivevisualization of the summary statistic
 Objective: Analyze and visualize genderbased
 differences in investment preferences.
 
-steps;-
+**steps;-**
 
 Visual Comparison: Create charts
 comparing investment choices (equity,
@@ -40,7 +40,7 @@ trends.
 Objective:
 Analyze the relationship betweensavings objectives and investment choices.
 
-Steps: -
+**Steps: -**
 
 Correlation Analysis: Explore thecorrelation between savings objectives(e.g., Capital Appreciation) and investmentavenues (e.g., Equity).
 
@@ -54,7 +54,7 @@ Frequency**
 Objective: Analyze investment durations
 and monitoring frequencies.
 
-steps:- 
+**steps:-** 
 
 Duration Distribution: Visualize the
 distribution of investment durations.
@@ -68,7 +68,7 @@ preferences.
 **Task 5: Reasons for Investment**
 Objective: Analyze and visualize thereasons for investment
 
-steps:-
+**steps:-**
 
 Trend Analysis: Identify commontrends in reasons for investment (e.g.,Better Returns, Tax Benefits).
 
@@ -80,7 +80,7 @@ visualization: Create charts showingthe most frequently cited reasons
 
 Objective: Analyze the sources from whichindividuals gather investmentinformation.
 
-steps:-
+**steps:-**
 
 source Analysis: Visualize whereindividuals get their investmentinformation (e.g., Newspapers,Internet).
 Insight Extraction: Analyze whichsources are most commonly reliedupon by investors.
@@ -91,7 +91,7 @@ Insight Extraction: Analyze whichsources are most commonly reliedupon by investo
 
 Objective: Create a comprehensive dashboardincorporating all insights.
 
-steps:-
+**steps:-**
 
 
 Dashboard Design: Design an intuitive dashboardlayout in Power BI.
