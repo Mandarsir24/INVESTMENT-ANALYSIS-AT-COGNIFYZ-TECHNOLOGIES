@@ -8,19 +8,19 @@ To complete this project we have complete 7 tasks given by Cognifyz technologies
 
 **Task 1 : Data Exploration and Summary**
 
-Objective: Understand and summarize keystatistics in the dataset
+Objective: Understand and summarize key statistics in the dataset
 
 **Steps**:
 Data Import: Import the dataset into Power BI.
-Exploratory Analysis: Explore the datasetstructure and data types.
-Calculate Statistics: Compute average age,percentage of individuals with variousinvestments, and common savings objectives.
-Visualization: Create charts for effectivevisualization of the summary statistics.
+Exploratory Analysis: Explore the data set structure and data types.
+Calculate Statistics: Compute average age,percentage of individuals with various investments, and common savings objectives.
+Visualization: Create charts for effective visualization of the summary statistics.
 
 ![Task 1-1](https://github.com/Mandarsir24/INVESTMENT-ANALYSIS-AT-COGNIFYZ-TECHNOLOGIES/assets/152494714/551e16d5-87b9-44f2-9f6a-0d4e6b5268b4)
 
 **Task 2 : Gender-based Analysis**
 
-Objective: Analyze and visualize genderbased
+Objective: Analyze and visualize gender based
 differences in investment preferences.
 
 **steps;-**
@@ -38,13 +38,13 @@ trends.
 
 **Task 3 : Objective Analysis**
 Objective:
-Analyze the relationship betweensavings objectives and investment choices.
+Analyze the relationship between savings objectives and investment choices.
 
 **Steps: -**
 
-Correlation Analysis: Explore thecorrelation between savings objectives(e.g., Capital Appreciation) and investmentavenues (e.g., Equity).
+Correlation Analysis: Explore the correlation between savings objectives(e.g., Capital Appreciation) and investmentavenues (e.g., Equity).
 
-chart Creation: Generate charts displayingpreferred investment choices for eachsavings objective.
+chart Creation: Generate charts displaying preferred investment choices for each savings objective.
 
 ![task 3-3](https://github.com/Mandarsir24/INVESTMENT-ANALYSIS-AT-COGNIFYZ-TECHNOLOGIES/assets/152494714/9184662c-4b33-4512-9d0f-4310bdb6cd79)
 
@@ -78,27 +78,27 @@ visualization: Create charts showingthe most frequently cited reasons
 
 **Task 6: Source of Information**
 
-Objective: Analyze the sources from whichindividuals gather investmentinformation.
+Objective: Analyze the sources from which individuals gather investment information.
 
 **steps:-**
 
-source Analysis: Visualize whereindividuals get their investmentinformation (e.g., Newspapers,Internet).
-Insight Extraction: Analyze whichsources are most commonly reliedupon by investors.
+source Analysis: Visualize where individuals get their investment information (e.g., Newspapers,Internet).
+Insight Extraction: Analyze which sources are most commonly relied upon by investors.
 
 ![task 6-6](https://github.com/Mandarsir24/INVESTMENT-ANALYSIS-AT-COGNIFYZ-TECHNOLOGIES/assets/152494714/83c1a8c5-4903-4ef5-bd45-06f1f53f6fc2)
 
 **Task 7: Combine Insights into a Dashboard**
 
-Objective: Create a comprehensive dashboardincorporating all insights.
+Objective: Create a comprehensive dashboard incorporating all insights.
 
 **steps:-**
 
 
-Dashboard Design: Design an intuitive dashboardlayout in Power BI.
-Incorporate Insights: Include visualizations from allprevious analyses in the dashboard.
-Interactivity: Add interactive elements forexploring the data further.
-Key Findings: Summarize major insights derivedfrom the analysis.
-Finalization: Polish the dashboard for a professionalappearance and user-friendly experience
+Dashboard Design: Design an intuitive dashboard layout in Power BI.
+Incorporate Insights: Include visualizations from all previous analyses in the dashboard.
+Interactivity: Add interactive elements for exploring the data further.
+Key Findings: Summarize major insights derived from the analysis.
+Finalization: Polish the dashboard for a professional appearance and user-friendly experience
 
 ![task 7-7](https://github.com/Mandarsir24/INVESTMENT-ANALYSIS-AT-COGNIFYZ-TECHNOLOGIES/assets/152494714/5dda936b-20d1-4c5c-8295-cd4f9390604b)
 
