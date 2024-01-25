@@ -3,6 +3,7 @@
 ## ABOUT COGNIFYZ TECHNOLOGY
 Cognifyz Technologies is a technology company that provides software solutions for businesses. The company offers a range of products and services,
 including artificial intelligence (AI), machine learning (ML), and data analytics tools.
+#cognifyztechnologies #cognifyz #cognifyztech.
 
 To complete this project we have complete 7 tasks given by Cognifyz technologies . these 7 tasks are as follows:-
 
