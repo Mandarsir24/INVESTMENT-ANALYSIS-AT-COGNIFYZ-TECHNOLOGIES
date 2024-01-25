@@ -1,6 +1,6 @@
 # INVESTMENT-ANALYSIS-AT-COGNIFYZ-TECHNOLOGIES
 
-##ABOUT COGNIFYZ TECHNOLOGY
+## ABOUT COGNIFYZ TECHNOLOGY
 Cognifyz Technologies is a technology company that provides software solutions for businesses. The company offers a range of products and services,
 including artificial intelligence (AI), machine learning (ML), and data analytics tools.
 
